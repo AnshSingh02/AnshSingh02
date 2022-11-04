@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Career Architect**
+- 🔭 I’m currently working on **JAVA project-Career Architect**
 
 - 🌱 I’m currently learning **JAVA**
 
