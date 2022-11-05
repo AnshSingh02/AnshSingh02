@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JAVA project-Career Architect**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA,DSA**
 
 - 📫 How to reach me **ansh04072002@gmail.com**
 
